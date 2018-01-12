@@ -1,0 +1,1 @@
+# Repositório para renomear vários arquivos de uma vez deixando um padrão

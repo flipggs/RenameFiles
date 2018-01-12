@@ -1,0 +1,27 @@
+{
+  "name": "renamefiles",
+  "version": "1.0.0",
+  "description": "Renomar varios arquivos de uma vez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipggs/RenameFiles.git"
+  },
+  "keywords": [
+    "rename",
+    "files",
+    "file",
+    "renomear",
+    "arqivos",
+    "arquivo"
+  ],
+  "author": "Felipe Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flipggs/RenameFiles/issues"
+  },
+  "homepage": "https://github.com/flipggs/RenameFiles#readme"
+}
